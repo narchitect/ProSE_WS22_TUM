@@ -1,0 +1,15 @@
+/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Lec02_Exercises/Ex2.1_ComplexNumbers/obj/Debug/net6.0/Ex2.1_ComplexNumbers.csproj.AssemblyReference.cache
+/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Lec02_Exercises/Ex2.1_ComplexNumbers/obj/Debug/net6.0/Ex2.1_ComplexNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Lec02_Exercises/Ex2.1_ComplexNumbers/obj/Debug/net6.0/Ex2.1_ComplexNumbers.AssemblyInfoInputs.cache
+/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Lec02_Exercises/Ex2.1_ComplexNumbers/obj/Debug/net6.0/Ex2.1_ComplexNumbers.AssemblyInfo.cs
+/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Lec02_Exercises/Ex2.1_ComplexNumbers/obj/Debug/net6.0/Ex2.1_ComplexNumbers.csproj.CoreCompileInputs.cache
+/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Lec02_Exercises/Ex2.1_ComplexNumbers/bin/Debug/net6.0/Ex2.1_ComplexNumbers
+/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Lec02_Exercises/Ex2.1_ComplexNumbers/bin/Debug/net6.0/Ex2.1_ComplexNumbers.deps.json
+/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Lec02_Exercises/Ex2.1_ComplexNumbers/bin/Debug/net6.0/Ex2.1_ComplexNumbers.runtimeconfig.json
+/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Lec02_Exercises/Ex2.1_ComplexNumbers/bin/Debug/net6.0/Ex2.1_ComplexNumbers.dll
+/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Lec02_Exercises/Ex2.1_ComplexNumbers/bin/Debug/net6.0/Ex2.1_ComplexNumbers.pdb
+/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Lec02_Exercises/Ex2.1_ComplexNumbers/obj/Debug/net6.0/Ex2.1_ComplexNumbers.dll
+/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Lec02_Exercises/Ex2.1_ComplexNumbers/obj/Debug/net6.0/refint/Ex2.1_ComplexNumbers.dll
+/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Lec02_Exercises/Ex2.1_ComplexNumbers/obj/Debug/net6.0/Ex2.1_ComplexNumbers.pdb
+/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Lec02_Exercises/Ex2.1_ComplexNumbers/obj/Debug/net6.0/Ex2.1_ComplexNumbers.genruntimeconfig.cache
+/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Lec02_Exercises/Ex2.1_ComplexNumbers/obj/Debug/net6.0/ref/Ex2.1_ComplexNumbers.dll
