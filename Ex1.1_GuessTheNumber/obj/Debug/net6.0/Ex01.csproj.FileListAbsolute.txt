@@ -1,0 +1,15 @@
+/Users/kimnayun/TUM_ProSE/Ex01/bin/Debug/net6.0/Ex01
+/Users/kimnayun/TUM_ProSE/Ex01/bin/Debug/net6.0/Ex01.deps.json
+/Users/kimnayun/TUM_ProSE/Ex01/bin/Debug/net6.0/Ex01.runtimeconfig.json
+/Users/kimnayun/TUM_ProSE/Ex01/bin/Debug/net6.0/Ex01.dll
+/Users/kimnayun/TUM_ProSE/Ex01/bin/Debug/net6.0/Ex01.pdb
+/Users/kimnayun/TUM_ProSE/Ex01/obj/Debug/net6.0/Ex01.csproj.AssemblyReference.cache
+/Users/kimnayun/TUM_ProSE/Ex01/obj/Debug/net6.0/Ex01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kimnayun/TUM_ProSE/Ex01/obj/Debug/net6.0/Ex01.AssemblyInfoInputs.cache
+/Users/kimnayun/TUM_ProSE/Ex01/obj/Debug/net6.0/Ex01.AssemblyInfo.cs
+/Users/kimnayun/TUM_ProSE/Ex01/obj/Debug/net6.0/Ex01.csproj.CoreCompileInputs.cache
+/Users/kimnayun/TUM_ProSE/Ex01/obj/Debug/net6.0/Ex01.dll
+/Users/kimnayun/TUM_ProSE/Ex01/obj/Debug/net6.0/refint/Ex01.dll
+/Users/kimnayun/TUM_ProSE/Ex01/obj/Debug/net6.0/Ex01.pdb
+/Users/kimnayun/TUM_ProSE/Ex01/obj/Debug/net6.0/Ex01.genruntimeconfig.cache
+/Users/kimnayun/TUM_ProSE/Ex01/obj/Debug/net6.0/ref/Ex01.dll
