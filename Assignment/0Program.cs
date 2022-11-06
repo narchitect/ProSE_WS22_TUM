@@ -15,24 +15,34 @@ namespace Assignment
             // 2) Property를 주었을 때는, 인스턴스의 메소드를 호출하고 값을 지정하는 방식. @@근데 왜 assignment 형식일까?
            
            
-            double[] xGrid = new double[2] {0,5};
+            double[] xGrid = new double[2] {0,10};
             double[] yGrid = new double[2] {0,10};
 
-            Rectangle rectangle = new Rectangle(0,0,10,6);
+            Rectangle test_rectangle = new Rectangle(0,0,5,10);
+            Rectangle test_rectangle2 = new Rectangle(0,1,2,6);
 
-            Rectangle rectangle1 = new Rectangle(0,0,1,5);
-            Rectangle rectangle2 = new Rectangle(2,0,3,5);
-            Rectangle rectangle3 = new Rectangle(4,1,5,6);
-            Rectangle rectangle4 = new Rectangle(6,0,7,5);
-            Rectangle rectangle5 = new Rectangle(8,0,9,5);
+            test_rectangle2.Visualize(xGrid,yGrid);
+            test_rectangle.Visualize(xGrid,yGrid);
 
-            Difference diff_TUM = new Difference(rectangle,rectangle1);
-            Difference diff_TUM2 = new Difference(diff_TUM,rectangle2);
-            Difference diff_TUM3 = new Difference(diff_TUM2,rectangle3);
-            Difference diff_TUM4 = new Difference(diff_TUM3,rectangle4);
-            Difference diff_TUM5 = new Difference(diff_TUM4,rectangle5);
+            Difference dif_test = new Difference(test_rectangle,test_rectangle2);
+            dif_test.Visualize(xGrid,yGrid);
 
-            rectangle.Visualize(xGrid,yGrid);
+
+            // Rectangle rectangle = new Rectangle(0,0,10,6);
+
+            // Rectangle rectangle1 = new Rectangle(0,0,1,5);
+            // Rectangle rectangle2 = new Rectangle(2,0,3,5);
+            // Rectangle rectangle3 = new Rectangle(4,1,5,6);
+            // Rectangle rectangle4 = new Rectangle(6,0,7,5);
+            // Rectangle rectangle5 = new Rectangle(8,0,9,5);
+
+            // Difference diff_TUM = new Difference(rectangle,rectangle1);
+            // Difference diff_TUM2 = new Difference(diff_TUM,rectangle2);
+            // Difference diff_TUM3 = new Difference(diff_TUM2,rectangle3);
+            // Difference diff_TUM4 = new Difference(diff_TUM3,rectangle4);
+            // Difference diff_TUM5 = new Difference(diff_TUM4,rectangle5);
+
+            // rectangle.Visualize(xGrid,yGrid);
             // diff_TUM.Visualize(xGrid,yGrid);
             // diff_TUM5.Visualize(xGrid,yGrid);
 

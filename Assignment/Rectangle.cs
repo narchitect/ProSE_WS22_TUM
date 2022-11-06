@@ -16,7 +16,7 @@ namespace Assignment
 
         public override bool IsInside(double x, double y)
         {
-            return this.x1 <= x && x <= this.x2 && this.y1 <= y && y <= this.y2; 
+            return (this.x1 <= x) && (x <= this.x2) && (this.y1 <= y) && (y <= this.y2); 
         }       
     }
 }
