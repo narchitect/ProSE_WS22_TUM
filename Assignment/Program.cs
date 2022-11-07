@@ -15,17 +15,29 @@ namespace Assignment
             // 2) Property를 주었을 때는, 인스턴스의 메소드를 호출하고 값을 지정하는 방식. @@근데 왜 assignment 형식일까?
            
            
-            double[] xGrid = new double[2] {0,10};
-            double[] yGrid = new double[2] {0,10};
+            double[] xGrid = new double[2] {0,15};
+            double[] yGrid = new double[2] {0,5};
 
-            Rectangle test_rectangle = new Rectangle(0,0,5,10);
-            Rectangle test_rectangle2 = new Rectangle(0,1,2,6);
+            Rectangle background_rectangle = new Rectangle(0,0,14,5);
+            Rectangle rec1 = new Rectangle(0,2,0,5);
+            Rectangle rec2 = new Rectangle(3,2,3,5);
+            Rectangle rec3 = new Rectangle(6,0,6,3);
+            Rectangle rec4 = new Rectangle(9,2,9,5);
+            Rectangle rec5 = new Rectangle(12,2,12,5);
 
-            test_rectangle2.Visualize(xGrid,yGrid);
-            test_rectangle.Visualize(xGrid,yGrid);
+           
+            Difference Diff_TUM = new Difference(background_rectangle, rec1);
+            Diff_TUM = new Difference(Diff_TUM, rec2);
+            Diff_TUM = new Difference(Diff_TUM, rec3);
+            Diff_TUM = new Difference(Diff_TUM, rec4);
+            Diff_TUM = new Difference(Diff_TUM, rec5);
 
-            Difference dif_test = new Difference(test_rectangle,test_rectangle2);
-            dif_test.Visualize(xGrid,yGrid);
+            Diff_TUM.Visualize(xGrid,yGrid);
+
+
+            
+
+
 
 
             // Rectangle rectangle = new Rectangle(0,0,10,6);

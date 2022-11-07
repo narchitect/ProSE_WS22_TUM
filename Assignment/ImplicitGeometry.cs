@@ -17,11 +17,11 @@ namespace Assignment{
             double yMax = yGrid[1];
             double yMin = yGrid[0];
 
-        //x, y축과 관련됌.
-            for (double x = xMin; x <= xMax; x++)
+        //x, y축과 관련됌.double x = xMin; x <= xMax; x++
+            for (double y = yMin; y <= yMax; y++)
             {
                 Console.WriteLine();
-                for (double y = yMin; y <= yMax; y++)
+                for (double x = xMin; x <= xMax; x++)
                 {
                     if (this.IsInside(x,y) == true)
                     {
