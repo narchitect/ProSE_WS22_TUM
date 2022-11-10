@@ -3,14 +3,14 @@
 /Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Assignment/obj/Debug/net5.0/Assignment.AssemblyInfoInputs.cache
 /Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Assignment/obj/Debug/net5.0/Assignment.AssemblyInfo.cs
 /Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Assignment/obj/Debug/net5.0/Assignment.csproj.CoreCompileInputs.cache
-/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Assignment/bin/Debug/net5.0/Assignment
 /Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Assignment/bin/Debug/net5.0/Assignment.deps.json
 /Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Assignment/bin/Debug/net5.0/Assignment.runtimeconfig.json
 /Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Assignment/bin/Debug/net5.0/Assignment.runtimeconfig.dev.json
 /Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Assignment/bin/Debug/net5.0/Assignment.dll
 /Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Assignment/bin/Debug/net5.0/Assignment.pdb
 /Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Assignment/obj/Debug/net5.0/Assignment.dll
-/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Assignment/obj/Debug/net5.0/refint/Assignment.dll
 /Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Assignment/obj/Debug/net5.0/Assignment.pdb
 /Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Assignment/obj/Debug/net5.0/Assignment.genruntimeconfig.cache
 /Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Assignment/obj/Debug/net5.0/ref/Assignment.dll
+/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Assignment/bin/Debug/net5.0/Assignment
+/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Assignment/obj/Debug/net5.0/refint/Assignment.dll

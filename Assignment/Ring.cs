@@ -2,7 +2,7 @@ using System;
 
 namespace Assignment
 {
-    class Ring
+    class Ring : ImplicitGeometry
     {
         //create properties of circle inside and outside (data type이 무엇인가?)
         public Circle OuterCircle {get; set;}
@@ -14,7 +14,7 @@ namespace Assignment
             InnerCircle = innerCircle;
         }
 
-        public bool InsideOfRing(double x, double y)
+        public override bool IsInside(double x, double y)
         {
             bool insidOuter = OuterCircle.InsideOfCircle(x,y);
             // boolean 타입에 !를 붙이면 반대값.

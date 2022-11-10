@@ -1,0 +1,15 @@
+/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Lec01_Exercises/Ex1.1_GuessTheNumber/bin/Debug/net6.0/Ex1.1_GuessTheNumber
+/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Lec01_Exercises/Ex1.1_GuessTheNumber/bin/Debug/net6.0/Ex1.1_GuessTheNumber.deps.json
+/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Lec01_Exercises/Ex1.1_GuessTheNumber/bin/Debug/net6.0/Ex1.1_GuessTheNumber.runtimeconfig.json
+/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Lec01_Exercises/Ex1.1_GuessTheNumber/bin/Debug/net6.0/Ex1.1_GuessTheNumber.dll
+/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Lec01_Exercises/Ex1.1_GuessTheNumber/bin/Debug/net6.0/Ex1.1_GuessTheNumber.pdb
+/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Lec01_Exercises/Ex1.1_GuessTheNumber/obj/Debug/net6.0/Ex1.1_GuessTheNumber.csproj.AssemblyReference.cache
+/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Lec01_Exercises/Ex1.1_GuessTheNumber/obj/Debug/net6.0/Ex1.1_GuessTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Lec01_Exercises/Ex1.1_GuessTheNumber/obj/Debug/net6.0/Ex1.1_GuessTheNumber.AssemblyInfoInputs.cache
+/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Lec01_Exercises/Ex1.1_GuessTheNumber/obj/Debug/net6.0/Ex1.1_GuessTheNumber.AssemblyInfo.cs
+/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Lec01_Exercises/Ex1.1_GuessTheNumber/obj/Debug/net6.0/Ex1.1_GuessTheNumber.csproj.CoreCompileInputs.cache
+/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Lec01_Exercises/Ex1.1_GuessTheNumber/obj/Debug/net6.0/Ex1.1_GuessTheNumber.dll
+/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Lec01_Exercises/Ex1.1_GuessTheNumber/obj/Debug/net6.0/refint/Ex1.1_GuessTheNumber.dll
+/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Lec01_Exercises/Ex1.1_GuessTheNumber/obj/Debug/net6.0/Ex1.1_GuessTheNumber.pdb
+/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Lec01_Exercises/Ex1.1_GuessTheNumber/obj/Debug/net6.0/Ex1.1_GuessTheNumber.genruntimeconfig.cache
+/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Lec01_Exercises/Ex1.1_GuessTheNumber/obj/Debug/net6.0/ref/Ex1.1_GuessTheNumber.dll

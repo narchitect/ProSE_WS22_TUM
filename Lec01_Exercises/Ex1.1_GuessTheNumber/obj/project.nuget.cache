@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "rTsX0YzFGUwMMJeqapgRy5NnyEcSCTfRgAkCQ8Vk7EsgUPpEzxUMj0Z1eJl4B0bokQjDb/azhGgol8SlyeMFiw==",
+  "dgSpecHash": "Url9YL6Bb+gRvqzltwXsPhKqsN3io9HVOUxW7V+MjfjRf+p1lFeHAcbDvNXVa5OZFITijZ75jUSPEynLnhdFxg==",
   "success": true,
-  "projectFilePath": "/Users/kimnayun/TUM_ProSE/Ex01/Ex01.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Lec01_Exercises/Ex1.1_GuessTheNumber/Ex1.1_GuessTheNumber.csproj",
+  "expectedPackageFiles": [
+    "/Users/kimnayun/.nuget/packages/microsoft.netcore.app.ref/6.0.11/microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
+    "/Users/kimnayun/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.11/microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "/Users/kimnayun/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.11/microsoft.netcore.app.host.osx-x64.6.0.11.nupkg.sha512"
+  ],
   "logs": []
 }

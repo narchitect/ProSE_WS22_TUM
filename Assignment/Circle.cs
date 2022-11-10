@@ -5,7 +5,7 @@ namespace Assignment
     class Circle : ImplicitGeometry
     {
         
-        // //Declare a field "radius" in the class
+        //Declare a field "radius" in the class
         // private int radius;
     
         // //craete a Get Method.
@@ -22,7 +22,8 @@ namespace Assignment
         // }
 
         //create a property(Method)
-        // public int Radius //Property is a method written above, so it need to be UpperLetter.
+        // private int radius;
+        // //Property is a method written above, so it need to be UpperLetter.
         // //하지만 분명하게 method는 아니다. 왜냐하면 assigment 되는 형식으로 set이 호출되고, value처럼 get이 호출.
         // {
         //     get {return radius;}
@@ -39,8 +40,9 @@ namespace Assignment
             this.X = x;
             this.Y = y; 
         }
+        // if only x,y used in the method, it will work only for central point(0,0)
         public bool InsideOfCircle (double x, double y) {
-            return Math.Sqrt(x*x + y*y) <= Radius;
+            return Math.Sqrt((x-this.X)*(x-this.X) + (y-this.Y)*(y-this.Y)) <= Radius;
         }
 
         //IsInside 함수를 호출할때 이미 Circle 인스턴스가 생성되어있으니까 메소드 호출 가능.

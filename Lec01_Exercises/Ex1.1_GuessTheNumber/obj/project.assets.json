@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kimnayun/TUM_ProSE/Ex01/Ex01.csproj",
-      "projectName": "Ex01",
-      "projectPath": "/Users/kimnayun/TUM_ProSE/Ex01/Ex01.csproj",
+      "projectUniqueName": "/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Lec01_Exercises/Ex1.1_GuessTheNumber/Ex1.1_GuessTheNumber.csproj",
+      "projectName": "Ex1.1_GuessTheNumber",
+      "projectPath": "/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Lec01_Exercises/Ex1.1_GuessTheNumber/Ex1.1_GuessTheNumber.csproj",
       "packagesPath": "/Users/kimnayun/.nuget/packages/",
-      "outputPath": "/Users/kimnayun/TUM_ProSE/Ex01/obj/",
+      "outputPath": "/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Lec01_Exercises/Ex1.1_GuessTheNumber/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kimnayun/.nuget/NuGet/NuGet.Config"
@@ -54,12 +54,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.11, 6.0.11]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.osx-x64",
+            "version": "[6.0.11, 6.0.11]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.11, 6.0.11]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
       }
     }
   }
