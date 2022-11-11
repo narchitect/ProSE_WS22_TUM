@@ -9,7 +9,8 @@ namespace ProSE
            double re = Convert.ToDouble(Console.ReadLine());
            Console.WriteLine("Enter Im");
            double im = Convert.ToDouble(Console.ReadLine());
-           Console.WriteLine(Complex.Norm(re , im));
+           Complex example01 = new Complex(re,im);
+           Console.WriteLine(example01.Norm(re, im));
        }
 
     }

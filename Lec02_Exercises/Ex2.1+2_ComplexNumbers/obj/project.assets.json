@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net6.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net6.0": []
   },
   "packageFolders": {
     "/Users/kimnayun/.nuget/packages/": {}
@@ -13,24 +13,24 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Lec02_Exercises/Ex2.2_ConverToComplex/Ex2.2_ConverToComplex.csproj",
-      "projectName": "Ex2.2_ConverToComplex",
-      "projectPath": "/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Lec02_Exercises/Ex2.2_ConverToComplex/Ex2.2_ConverToComplex.csproj",
+      "projectUniqueName": "/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Lec02_Exercises/Ex2.1_ComplexNumbers/Ex2.1_ComplexNumbers.csproj",
+      "projectName": "Ex2.1_ComplexNumbers",
+      "projectPath": "/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Lec02_Exercises/Ex2.1_ComplexNumbers/Ex2.1_ComplexNumbers.csproj",
       "packagesPath": "/Users/kimnayun/.nuget/packages/",
-      "outputPath": "/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Lec02_Exercises/Ex2.2_ConverToComplex/obj/",
+      "outputPath": "/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Lec02_Exercises/Ex2.1_ComplexNumbers/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kimnayun/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net5.0"
+        "net6.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "projectReferences": {}
         }
       },
@@ -41,8 +41,8 @@
       }
     },
     "frameworks": {
-      "net5.0": {
-        "targetAlias": "net5.0",
+      "net6.0": {
+        "targetAlias": "net6.0",
         "imports": [
           "net461",
           "net462",
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
       }
     }
   }
