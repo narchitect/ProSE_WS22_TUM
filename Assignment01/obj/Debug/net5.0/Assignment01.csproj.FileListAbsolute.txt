@@ -1,0 +1,16 @@
+/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Assignment01/bin/Debug/net5.0/Assignment01
+/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Assignment01/bin/Debug/net5.0/Assignment01.deps.json
+/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Assignment01/bin/Debug/net5.0/Assignment01.runtimeconfig.json
+/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Assignment01/bin/Debug/net5.0/Assignment01.runtimeconfig.dev.json
+/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Assignment01/bin/Debug/net5.0/Assignment01.dll
+/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Assignment01/bin/Debug/net5.0/Assignment01.pdb
+/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Assignment01/obj/Debug/net5.0/Assignment01.csproj.AssemblyReference.cache
+/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Assignment01/obj/Debug/net5.0/Assignment01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Assignment01/obj/Debug/net5.0/Assignment01.AssemblyInfoInputs.cache
+/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Assignment01/obj/Debug/net5.0/Assignment01.AssemblyInfo.cs
+/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Assignment01/obj/Debug/net5.0/Assignment01.csproj.CoreCompileInputs.cache
+/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Assignment01/obj/Debug/net5.0/Assignment01.dll
+/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Assignment01/obj/Debug/net5.0/refint/Assignment01.dll
+/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Assignment01/obj/Debug/net5.0/Assignment01.pdb
+/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Assignment01/obj/Debug/net5.0/Assignment01.genruntimeconfig.cache
+/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Assignment01/obj/Debug/net5.0/ref/Assignment01.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Assignment/Assignment.csproj",
-      "projectName": "Assignment",
-      "projectPath": "/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Assignment/Assignment.csproj",
+      "projectUniqueName": "/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Assignment01/Assignment01.csproj",
+      "projectName": "Assignment01",
+      "projectPath": "/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Assignment01/Assignment01.csproj",
       "packagesPath": "/Users/kimnayun/.nuget/packages/",
-      "outputPath": "/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Assignment/obj/",
+      "outputPath": "/Users/kimnayun/TUM_ProSE/ProSE_WS22_TUM/Assignment01/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kimnayun/.nuget/NuGet/NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
       }
     }
   }

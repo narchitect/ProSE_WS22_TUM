@@ -1,19 +1,27 @@
 ﻿using System;
 namespace ProSE
 {
-    class mainspace
+   class Lecture2
     {
-       public static void Main(string[] args)
-       {
-           Console.WriteLine("Enter Real");
-           double re = Convert.ToDouble(Console.ReadLine());
-           Console.WriteLine("Enter Im");
-           double im = Convert.ToDouble(Console.ReadLine());
-           Complex example01 = new Complex(re,im);
-           Console.WriteLine(example01.Norm(re, im));
-       }
+        public static void Main(string[] args)
+        {
+            Console.WriteLine("Enter a complex number: ");
+            var x = Console.ReadLine();
 
-    }
-    
+            Complex c;
 
-}
+            bool works = Complex.TryParseComplex(x, out c);
+
+            if (works) // checks if parsing worked or not
+            {
+                Console.WriteLine("Parsed successfully.");
+            }
+            else
+            {
+                Console.WriteLine("Parsing failed. Invalid complex number.");
+            }
+            Console.WriteLine("Norm: " + c.GetNorm());
+            
+        }
+    } // Lecture2
+} //PSWE
