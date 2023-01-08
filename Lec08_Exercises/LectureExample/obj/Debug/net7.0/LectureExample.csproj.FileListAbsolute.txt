@@ -1,0 +1,15 @@
+/Users/kimnayun/Projects/ProSE_WS22_TUM/Lec08_Exercises/LectureExample/bin/Debug/net7.0/LectureExample
+/Users/kimnayun/Projects/ProSE_WS22_TUM/Lec08_Exercises/LectureExample/bin/Debug/net7.0/LectureExample.deps.json
+/Users/kimnayun/Projects/ProSE_WS22_TUM/Lec08_Exercises/LectureExample/bin/Debug/net7.0/LectureExample.runtimeconfig.json
+/Users/kimnayun/Projects/ProSE_WS22_TUM/Lec08_Exercises/LectureExample/bin/Debug/net7.0/LectureExample.dll
+/Users/kimnayun/Projects/ProSE_WS22_TUM/Lec08_Exercises/LectureExample/bin/Debug/net7.0/LectureExample.pdb
+/Users/kimnayun/Projects/ProSE_WS22_TUM/Lec08_Exercises/LectureExample/obj/Debug/net7.0/LectureExample.csproj.AssemblyReference.cache
+/Users/kimnayun/Projects/ProSE_WS22_TUM/Lec08_Exercises/LectureExample/obj/Debug/net7.0/LectureExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kimnayun/Projects/ProSE_WS22_TUM/Lec08_Exercises/LectureExample/obj/Debug/net7.0/LectureExample.AssemblyInfoInputs.cache
+/Users/kimnayun/Projects/ProSE_WS22_TUM/Lec08_Exercises/LectureExample/obj/Debug/net7.0/LectureExample.AssemblyInfo.cs
+/Users/kimnayun/Projects/ProSE_WS22_TUM/Lec08_Exercises/LectureExample/obj/Debug/net7.0/LectureExample.csproj.CoreCompileInputs.cache
+/Users/kimnayun/Projects/ProSE_WS22_TUM/Lec08_Exercises/LectureExample/obj/Debug/net7.0/LectureExample.dll
+/Users/kimnayun/Projects/ProSE_WS22_TUM/Lec08_Exercises/LectureExample/obj/Debug/net7.0/refint/LectureExample.dll
+/Users/kimnayun/Projects/ProSE_WS22_TUM/Lec08_Exercises/LectureExample/obj/Debug/net7.0/LectureExample.pdb
+/Users/kimnayun/Projects/ProSE_WS22_TUM/Lec08_Exercises/LectureExample/obj/Debug/net7.0/LectureExample.genruntimeconfig.cache
+/Users/kimnayun/Projects/ProSE_WS22_TUM/Lec08_Exercises/LectureExample/obj/Debug/net7.0/ref/LectureExample.dll
