@@ -22,7 +22,7 @@ namespace LectureExample
         //    sps.SomeValue = 5;
         //}
 
-        static void Main(string[] args)
+        static void Main02(string[] args)
         {
             var sps = new SinglePurposeThing();
             //Set2Five(sps);

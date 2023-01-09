@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kimnayun/Projects/ProSE_WS22_TUM/Lec08_Exercises/LectureExample/LectureExample.csproj",
+      "projectUniqueName": "/Users/kimnayun/Projects/ProSE_WS22_TUM/LectureExample/LectureExample.csproj",
       "projectName": "LectureExample",
-      "projectPath": "/Users/kimnayun/Projects/ProSE_WS22_TUM/Lec08_Exercises/LectureExample/LectureExample.csproj",
+      "projectPath": "/Users/kimnayun/Projects/ProSE_WS22_TUM/LectureExample/LectureExample.csproj",
       "packagesPath": "/Users/kimnayun/.nuget/packages/",
-      "outputPath": "/Users/kimnayun/Projects/ProSE_WS22_TUM/Lec08_Exercises/LectureExample/obj/",
+      "outputPath": "/Users/kimnayun/Projects/ProSE_WS22_TUM/LectureExample/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kimnayun/.nuget/NuGet/NuGet.Config"

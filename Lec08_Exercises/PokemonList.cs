@@ -4,7 +4,6 @@ namespace Lec08_Exercises
 {
 	public class PokemonList
 	{
-
 		public List<Pokemon> Pokemons { get; set; } = new List<Pokemon>();
 
 		public PokemonList()
@@ -16,13 +15,13 @@ namespace Lec08_Exercises
 			this.Pokemons.Add(pokemon);
 		}
 
-		public void GetPokemon()
-		{
-			var pokemon = from s in Pokemons
-						  select new { s.name };
+		//public void GetPokemon()
+		//{
+		//	var pokemon = from s in Pokemons
+		//				  select new { s.name };
 
-			Console.WriteLine(pokemon);
-		}
+		//	Console.WriteLine(pokemon);
+		//}
 	}
 }
 

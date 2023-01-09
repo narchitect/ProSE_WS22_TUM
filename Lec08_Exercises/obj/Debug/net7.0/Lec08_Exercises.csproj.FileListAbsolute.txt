@@ -1,15 +1,5 @@
-/Users/kimnayun/Projects/ProSE_WS22_TUM/Lec08_Exercises/bin/Debug/net7.0/Lec08_Exercises
-/Users/kimnayun/Projects/ProSE_WS22_TUM/Lec08_Exercises/bin/Debug/net7.0/Lec08_Exercises.deps.json
-/Users/kimnayun/Projects/ProSE_WS22_TUM/Lec08_Exercises/bin/Debug/net7.0/Lec08_Exercises.runtimeconfig.json
-/Users/kimnayun/Projects/ProSE_WS22_TUM/Lec08_Exercises/bin/Debug/net7.0/Lec08_Exercises.dll
-/Users/kimnayun/Projects/ProSE_WS22_TUM/Lec08_Exercises/bin/Debug/net7.0/Lec08_Exercises.pdb
 /Users/kimnayun/Projects/ProSE_WS22_TUM/Lec08_Exercises/obj/Debug/net7.0/Lec08_Exercises.csproj.AssemblyReference.cache
 /Users/kimnayun/Projects/ProSE_WS22_TUM/Lec08_Exercises/obj/Debug/net7.0/Lec08_Exercises.GeneratedMSBuildEditorConfig.editorconfig
 /Users/kimnayun/Projects/ProSE_WS22_TUM/Lec08_Exercises/obj/Debug/net7.0/Lec08_Exercises.AssemblyInfoInputs.cache
 /Users/kimnayun/Projects/ProSE_WS22_TUM/Lec08_Exercises/obj/Debug/net7.0/Lec08_Exercises.AssemblyInfo.cs
 /Users/kimnayun/Projects/ProSE_WS22_TUM/Lec08_Exercises/obj/Debug/net7.0/Lec08_Exercises.csproj.CoreCompileInputs.cache
-/Users/kimnayun/Projects/ProSE_WS22_TUM/Lec08_Exercises/obj/Debug/net7.0/Lec08_Exercises.dll
-/Users/kimnayun/Projects/ProSE_WS22_TUM/Lec08_Exercises/obj/Debug/net7.0/refint/Lec08_Exercises.dll
-/Users/kimnayun/Projects/ProSE_WS22_TUM/Lec08_Exercises/obj/Debug/net7.0/Lec08_Exercises.pdb
-/Users/kimnayun/Projects/ProSE_WS22_TUM/Lec08_Exercises/obj/Debug/net7.0/Lec08_Exercises.genruntimeconfig.cache
-/Users/kimnayun/Projects/ProSE_WS22_TUM/Lec08_Exercises/obj/Debug/net7.0/ref/Lec08_Exercises.dll
