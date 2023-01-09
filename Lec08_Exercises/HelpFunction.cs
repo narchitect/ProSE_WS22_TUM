@@ -32,7 +32,7 @@ namespace Lec08_Exercises
         public static Pokemon GetPokemonInfo(XmlNode pokemon)
         {
             string name = " ";
-            List<string> types = new List<string>();
+            string type = " ";
             int dex = 0;
 
             foreach (XmlNode node in pokemon)
@@ -45,11 +45,7 @@ namespace Lec08_Exercises
                 // select multiple values of the child nodes with same name. 
                 else if (node.Name == "types")
                 {
-
-                    for ( int i = 0; i < node.ChildNodes.Count; i ++ )
-                    { 
-                        types.Add(node.ChildNodes[i].InnerText);  
-                    }
+                    type = node.InnerText;
                 }
 
                 else if (node.Name == "dex")
@@ -58,7 +54,7 @@ namespace Lec08_Exercises
                 }
             }
 
-            return new Pokemon(name, dex, types);
+            return new Pokemon(name, dex, type);
         }
 
         

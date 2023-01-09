@@ -11,10 +11,16 @@ namespace Lec08_Exercises
             string path = "./pokedex.xml";
             var pokemonList = HelpFunction.ImportXML(path);
 
-            pokemonList.GetPokemon();
+            var electricPokemon = from p in pokemonList.Pokemons
+                                  where p.types.Contains("ELECTRIC")
+                                  orderby p.name
+                                  select p;
 
+            foreach (var p in electricPokemon)
+            {
+                Console.WriteLine(p.name);
+                DatabaseFramework.AddPokemon(p);
+            }
         }
-
-        
     }
 }
