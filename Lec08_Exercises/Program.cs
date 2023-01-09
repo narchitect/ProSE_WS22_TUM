@@ -12,7 +12,7 @@ namespace Lec08_Exercises
             var pokemonList = HelpFunction.ImportXML(path);
 
             var electricPokemon = from p in pokemonList.Pokemons
-                                  where p.types.Contains("ELECTRIC")
+                                  where p.type.Contains("ELECTRIC")
                                   orderby p.name
                                   select p;
 
