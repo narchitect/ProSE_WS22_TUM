@@ -1,17 +1,19 @@
 ﻿<Properties StartupConfiguration="{50A34E9F-64AE-4759-A016-611414194923}|Default">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Lec08__Exercises PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PokedexContext.cs">
     <Files>
-      <File FileName="Program.cs" Line="17" Column="1" />
-      <File FileName="Pokemon.cs" Line="7" Column="31" />
-      <File FileName="HelpFunction.cs" />
-      <File FileName="PokemonList.cs" />
-      <File FileName="PokedexContext.cs" />
-      <File FileName="DatabaseFramework.cs" />
-      <File FileName="pokedex.xml" />
+      <File FileName="Program.cs" Line="19" Column="37" />
+      <File FileName="Pokemon.cs" Line="1" Column="1" />
+      <File FileName="HelpFunction.cs" Line="46" Column="1" />
+      <File FileName="PokemonList.cs" Line="16" Column="4" />
+      <File FileName="DatabaseFramework.cs" Line="10" Column="35" />
+      <File FileName="pokedex.xml" Line="1" Column="1" />
       <File FileName="Lec08_Exercises.csproj" />
+      <File FileName="PokedexContext.cs" Line="17" Column="4" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -21,17 +23,16 @@
               <Node name="Dependencies" expanded="True">
                 <Node name="PackageDependencies" expanded="True" />
               </Node>
+              <Node name="PokedexContext.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/kimnayun/Projects/ProSE_WS22_TUM/Lec08_Exercises/HelpFunction.cs" relfile="HelpFunction.cs" line="46" column="1" />
-      <Breakpoint file="/Users/kimnayun/Projects/ProSE_WS22_TUM/Lec08_Exercises/Program.cs" relfile="Program.cs" line="14" column="1" />
-    </BreakpointStore>
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Lec08__Exercises PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
 </Properties>

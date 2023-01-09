@@ -14,14 +14,6 @@ namespace Lec08_Exercises
 		{
 			this.Pokemons.Add(pokemon);
 		}
-
-		//public void GetPokemon()
-		//{
-		//	var pokemon = from s in Pokemons
-		//				  select new { s.name };
-
-		//	Console.WriteLine(pokemon);
-		//}
 	}
 }
 

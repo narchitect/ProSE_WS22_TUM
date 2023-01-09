@@ -7,7 +7,7 @@ namespace Lec08_Exercises
 		{
 			using (var context = new PokedexContext())
 			{
-				context.Pokemons.Add(pokemon);
+				context.Add(pokemon);
 				context.SaveChanges();
 			}
 		}
